@@ -1,0 +1,6 @@
+# Remove toolchain additions
+kernel/build/bazel_common_rules/*
+kernel/external/*
+kernel/prebuilts/*
+kernel/kernel/*
+kernel/tools/mkbootimg/*
