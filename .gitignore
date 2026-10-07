@@ -4,3 +4,12 @@ kernel/external/*
 kernel/prebuilts/*
 kernel/kernel/*
 kernel/tools/mkbootimg/*
+
+# Build Configurations
+out/*
+kernel/bazel-bin
+kernel/bazel-kernel
+kernel/bazel-out
+kernel/bazel-testlogs
+kernel/out/bazel/bazelrc/cache_dir.bazelrc
+kernel/out/bazel/bazelrc/stamp_extra.bazelrc
